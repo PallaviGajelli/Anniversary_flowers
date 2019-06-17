@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-16T18:16:22Z" name="Default suite" finished-at="2019-06-16T18:17:19Z" duration-ms="57193">
+    <groups>
+    </groups>
+    <test started-at="2019-06-16T18:16:22Z" name="Default test" finished-at="2019-06-16T18:17:19Z" duration-ms="57193">
+      <class name="a_f_testsuite.trial">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:a_f_testsuite.trial@343570b7]" started-at="2019-06-16T19:16:22Z" name="Setup" finished-at="2019-06-16T19:16:31Z" duration-ms="9808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="FNP_Anniversary_flow_006()[pri:1, instance:a_f_testsuite.trial@343570b7]" started-at="2019-06-16T19:16:32Z" name="FNP_Anniversary_flow_006" finished-at="2019-06-16T19:17:18Z" duration-ms="46944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FNP_Anniversary_flow_006 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:a_f_testsuite.trial@343570b7]" started-at="2019-06-16T19:17:18Z" name="tearDown" finished-at="2019-06-16T19:17:19Z" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- a_f_testsuite.trial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
